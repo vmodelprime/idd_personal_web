@@ -1,0 +1,22 @@
+---
+title: "Ariana Gomez"
+image: media/IMG_2718.jpg
+2toc: false
+about:
+    template: jolla
+    image-shape: round
+    image-width: 17em
+    links:
+        - text: LinkedIn
+          href: www.linkedin.com/in/ariana-gomez-418322334
+        - text: GitHub
+          href: https://github.com/vmodelprime
+        - text: Email
+          href: mailto:arianagomez@ucsb.edu
+---
+
+Hi! I’m Ariana, an undergraduate studying Geophysics at UCSB. I’m passionate about seismology, tectonics, and understanding the Earth's mantle.
+
+Right now, I’m exploring anti-repeating earthquakes in the Californian Sierra Valley and building my skills in Python and Fortran. Outside the classroom, you can usually find me swimming at the Recreation Center.
+
+Take a look at my recent work on the **Projects** page, or feel free to reach out—I’d love to connect!
